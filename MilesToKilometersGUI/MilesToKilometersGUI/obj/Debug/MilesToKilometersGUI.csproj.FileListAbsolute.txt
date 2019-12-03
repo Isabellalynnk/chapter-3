@@ -1,0 +1,5 @@
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.csprojAssemblyReference.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.Form1.resources
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.Properties.Resources.resources
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.csproj.GenerateResource.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\bin\Debug\eggsinteractive.exe.config
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\bin\Debug\eggsinteractive.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\bin\Debug\eggsinteractive.pdb
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\obj\Debug\eggsinteractive.csprojAssemblyReference.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\obj\Debug\eggsinteractive.Form1.resources
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\obj\Debug\eggsinteractive.Properties.Resources.resources
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\obj\Debug\eggsinteractive.csproj.GenerateResource.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\obj\Debug\eggsinteractive.csproj.CoreCompileInputs.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\obj\Debug\eggsinteractive.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\eggsinteractive\eggsinteractive\obj\Debug\eggsinteractive.pdb

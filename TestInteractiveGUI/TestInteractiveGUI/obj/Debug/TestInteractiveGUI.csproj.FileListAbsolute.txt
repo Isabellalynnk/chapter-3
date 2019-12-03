@@ -1,0 +1,10 @@
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\bin\Debug\TestInteractiveGUI.exe.config
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\bin\Debug\TestInteractiveGUI.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\bin\Debug\TestInteractiveGUI.pdb
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\obj\Debug\TestInteractiveGUI.csprojAssemblyReference.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\obj\Debug\TestInteractiveGUI.Form1.resources
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\obj\Debug\TestInteractiveGUI.Properties.Resources.resources
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\obj\Debug\TestInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\obj\Debug\TestInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\obj\Debug\TestInteractiveGUI.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-3\TestInteractiveGUI\TestInteractiveGUI\obj\Debug\TestInteractiveGUI.pdb
